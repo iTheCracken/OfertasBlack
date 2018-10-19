@@ -1,0 +1,29 @@
+{
+  "name": "OfertasBlack",
+  "version": "1.0.0",
+  "description": "Back-End de ofertas de ayuda de GraphQL",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "casual": "^1.5.19",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTheCracken/OfertasBlack.git"
+  },
+  "keywords": [],
+  "author": "José Antonio Covarrubias Peralta <jcovarrubiasp_halo3@hotmail.com> (Cracken)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iTheCracken/OfertasBlack/issues"
+  },
+  "homepage": "https://github.com/iTheCracken/OfertasBlack#readme"
+}
